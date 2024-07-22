@@ -1,0 +1,11 @@
+.App {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    font-size: 15px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
